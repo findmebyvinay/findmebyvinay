@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @findmebyvinay
+- 👋 Hi, I’m vinay
 - 👀 I’m interested in flutter, video editing
 - 🌱 I’m currently learning App development
 - 💞️ I’m looking to collaborate on *
