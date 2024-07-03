@@ -2,7 +2,8 @@
 - 👀 I’m interested in flutter, video editing
 - 🌱 I’m currently learning App development
 - 💞️ I’m looking to collaborate on *
-- 📫 How to reach me  mail-vinaythapa762@gmail.com, insta-Vi_nay.nay 
+- 📫 How to reach me  mail-vinaythapa762@gmail.com,
+-  insta-Vi_nay.nay 
 - 😄 Pronouns: sir*
 - ⚡ Fun fact: basketball ,explorer like to trek, working out helps me cool my mind more to goo......
 
