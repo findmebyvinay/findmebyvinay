@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently Learning about bloc state management<br>👯 I’m looking to collaborate on stuff related to flutter<br>🤝 I’m looking for help with anyone likes sharing<br>🌱 I’m currently learning flutter <br>💬 Ask me about anything<br>⚡ Fun fact I like to play basketball, trekking, working out and reading books about personal development.
+🔭 I’m currently Learning about bloc state management<br>👯 I’m looking to collaborate on stuff related to flutter<br>🤝🌱 I’m currently learning flutter <br>💬 Ask me about anything<br>⚡ Fun fact I like to play basketball, trekking, working out and reading books about personal development.
 
 
 ## 🌐 Socials:
